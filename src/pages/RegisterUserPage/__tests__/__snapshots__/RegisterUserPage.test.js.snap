@@ -1,0 +1,242 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders RegisterPage correctly 1`] = `
+<div
+  className="makeStyles-container-1 makeStyles-container-9"
+>
+  <div
+    className="makeStyles-leftContainer-2 makeStyles-leftContainer-10"
+  >
+    <div>
+      <img
+        alt="Sicredi Logo"
+        src="Sicredi.svg"
+      />
+      <div
+        className="makeStyles-textRegister-6"
+      >
+        Cadastro
+      </div>
+      <div
+        className="makeStyles-textPlaceholder-7"
+      >
+        Faça seu cadastro, entre na plataforma e veja a distribuição de resultados.
+      </div>
+    </div>
+    <a
+      className="makeStyles-clickBackLogin-8 makeStyles-clickBackLogin-12"
+      href="/login"
+      onClick={[Function]}
+    >
+      <img
+        alt="Back Button"
+        color="#3fa110"
+        src="BackLogin.svg"
+      />
+      Voltar para o login
+    </a>
+  </div>
+  <div
+    className="makeStyles-rightContainer-3 makeStyles-rightContainer-11"
+  >
+    <form
+      action="#"
+      onReset={[Function]}
+      onSubmit={[Function]}
+    >
+      <div
+        className="MuiFormControl-root MuiTextField-root makeStyles-root-13 makeStyles-input-4"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+          data-shrink={false}
+        >
+          Nome
+        </label>
+        <div
+          className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+          onClick={[Function]}
+        >
+          <input
+            aria-invalid={false}
+            autoFocus={false}
+            className="MuiInputBase-input MuiOutlinedInput-input"
+            disabled={false}
+            name="name"
+            onAnimationStart={[Function]}
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={false}
+            type="text"
+            value=""
+          />
+          <fieldset
+            aria-hidden={true}
+            className="PrivateNotchedOutline-root-14 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              className="PrivateNotchedOutline-legendLabelled-16"
+            >
+              <span>
+                Nome
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+      <div
+        className="MuiFormControl-root MuiTextField-root makeStyles-root-13 makeStyles-input-4"
+        maskplaceholder=""
+        onMouseDown={[Function]}
+        onPaste={[Function]}
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+          data-shrink={false}
+        >
+          CPF
+        </label>
+        <div
+          className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+          onClick={[Function]}
+        >
+          <input
+            aria-invalid={false}
+            autoFocus={false}
+            className="MuiInputBase-input MuiOutlinedInput-input"
+            disabled={false}
+            name="cpf"
+            onAnimationStart={[Function]}
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={false}
+            type="text"
+            value=""
+          />
+          <fieldset
+            aria-hidden={true}
+            className="PrivateNotchedOutline-root-14 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              className="PrivateNotchedOutline-legendLabelled-16"
+            >
+              <span>
+                CPF
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+      <div
+        className="MuiFormControl-root MuiTextField-root makeStyles-root-13 makeStyles-input-4"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+          data-shrink={false}
+        >
+          Senha
+        </label>
+        <div
+          className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+          onClick={[Function]}
+        >
+          <input
+            aria-invalid={false}
+            autoFocus={false}
+            className="MuiInputBase-input MuiOutlinedInput-input"
+            disabled={false}
+            name="password"
+            onAnimationStart={[Function]}
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={false}
+            type="password"
+            value=""
+          />
+          <fieldset
+            aria-hidden={true}
+            className="PrivateNotchedOutline-root-14 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              className="PrivateNotchedOutline-legendLabelled-16"
+            >
+              <span>
+                Senha
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+      <div
+        className="MuiFormControl-root MuiTextField-root makeStyles-root-13 makeStyles-lastInput-5"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+          data-shrink={false}
+        >
+          Codigo Cooperativa
+        </label>
+        <div
+          className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+          onClick={[Function]}
+        >
+          <input
+            aria-invalid={false}
+            autoFocus={false}
+            className="MuiInputBase-input MuiOutlinedInput-input"
+            disabled={false}
+            name="coopCode"
+            onAnimationStart={[Function]}
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={false}
+            type="text"
+            value=""
+          />
+          <fieldset
+            aria-hidden={true}
+            className="PrivateNotchedOutline-root-14 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              className="PrivateNotchedOutline-legendLabelled-16"
+            >
+              <span>
+                Codigo Cooperativa
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-lightGreen-19 makeStyles-content-20 MuiButton-containedPrimary MuiButton-fullWidth"
+        disabled={false}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="submit"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          <p>
+            Cadastrar
+          </p>
+        </span>
+      </button>
+    </form>
+  </div>
+</div>
+`;

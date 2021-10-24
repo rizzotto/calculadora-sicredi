@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders link correctly 1`] = `
+<a
+  className="makeStyles-link-1"
+  href="/test"
+  onClick={[Function]}
+>
+  <p
+    className="MuiTypography-root MuiTypography-body1"
+  >
+    teste
+  </p>
+</a>
+`;
