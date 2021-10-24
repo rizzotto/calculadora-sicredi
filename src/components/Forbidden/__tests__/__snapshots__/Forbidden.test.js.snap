@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Forbidden correctly 1`] = `
+<div
+  className="makeStyles-container-1"
+>
+  <div
+    className="makeStyles-content-2"
+  >
+    <img
+      alt="Logo"
+      src="LogoSicrediLogin.svg"
+    />
+    <h2
+      className="makeStyles-text-3"
+    >
+      Você não tem acesso a essa página
+    </h2>
+    <a
+      className="makeStyles-white-6"
+      href="/admin"
+      onClick={[Function]}
+    >
+      HOME
+    </a>
+  </div>
+</div>
+`;

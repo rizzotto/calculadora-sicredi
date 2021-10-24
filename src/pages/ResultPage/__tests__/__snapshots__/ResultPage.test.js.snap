@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders ResultPage correctly 1`] = `
+<div
+  className="makeStyles-container-1"
+>
+  <div
+    className="makeStyles-bar-2"
+  >
+    <div
+      className="makeStyles-backButton-3"
+      onClick={[Function]}
+    >
+      <svg>
+        Back.svg
+      </svg>
+      <div
+        className="makeStyles-voltar-4"
+      >
+        Voltar
+      </div>
+    </div>
+    <svg
+      height={64}
+      width={64}
+    >
+      Logo.svg
+    </svg>
+  </div>
+  <div
+    className="makeStyles-content-5 makeStyles-content-9"
+  >
+    <div
+      className="makeStyles-title-6 makeStyles-title-10"
+    >
+      Distribuição de Resultados
+    </div>
+    <div
+      className="makeStyles-coin-7 makeStyles-coin-11"
+    >
+      R$
+       
+      <div
+        className="makeStyles-value-8 makeStyles-value-12"
+      >
+        0.00
+      </div>
+    </div>
+  </div>
+</div>
+`;
